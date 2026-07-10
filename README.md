@@ -1,16 +1,105 @@
-## Hi there 👋
+# Kavya Pearlman
 
-<!--
-**CyberGuardian-XRSI/CyberGuardian-XRSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Founder & CEO** | X Reality Safety Intelligence (XRSI)  
+🎯 **AI Governance & Compliance Expert** | 15+ years in GRC, Security, and Risk Management  
+🏆 **"The Cyber Guardian"** | 30+ awards for emerging tech safety  
+🌍 **Global Advisor** | 60+ governments and institutions on AI, cybersecurity, and privacy
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Open Source Contribution
+
+### **Agentic Trust Framework - Compliance Audit Guide**
+**[View PR #19](https://github.com/massivescale-ai/agentic-trust-framework/pull/19)**
+
+A comprehensive guide operationalizing all 61 Agentic Trust Framework (ATF) controls into audit-ready procedures.
+
+**What it provides:**
+- ✅ **Audit Procedures** - Step-by-step verification for each control
+- ✅ **Evidence Requirements** - What compliance teams must produce during audits
+- ✅ **Maturity Scoring** - Measure organizational compliance posture (0-100%)
+- ✅ **Framework Mappings** - ISO 42001, ISO 27001, SOC 2, GDPR, HIPAA, EU AI Act, NIST AI RMF
+- ✅ **Industry Playbooks** - Financial Services, Healthcare, EU-specific guidance
+- ✅ **Compliance Tools** - Excel scoring calculator and assessment templates
+
+**Impact:** Bridges the gap between governance frameworks and real-world implementation for organizations, auditors, and regulators.
+
+---
+
+## 💼 Professional Background
+
+**Expertise:**
+- Governance, Risk & Compliance (GRC) | Enterprise risk programs and compliance frameworks
+- AI Governance & Safety | Agentic AI evaluation frameworks, autonomous system accountability
+- Compliance Frameworks | NIST, ISO 27001, ISO 42001, ISO 28000, SOC 2, GDPR, HIPAA
+- Security Frameworks | Translating regulatory requirements into operational controls
+- Third-Party Risk Management | Vendor assessments, supply chain oversight, risk scoring
+- Customer Trust & Assurance | Security reviews, compliance documentation, audit readiness
+
+**Current Role:**
+- **Founder & CEO, X Reality Safety Intelligence (XRSI)** (2019-Present)
+  - Developed governance and safety standards for AI and immersive systems (RDG standards)
+  - Designed Agentic AI governance framework (RDG-AX) for assessing autonomy risks and oversight
+  - Supporting organizations on AI adoption by mapping compliance requirements to controls
+  - Translating NIST, ISO 27001, and emerging AI governance principles into practical policies
+
+**Previous Experience:**
+- **Information Security Director** @ Linden Lab (2017-2019)
+- **Cybersecurity Strategist** @ Wallarm (2019-2020)
+- **Third-Party Risk & Security Consultant** @ Facebook (2016-2017)
+- **Security roles** @ regulated enterprises (FinTech, healthcare, infrastructure)
+
+---
+
+## 🌍 Global Contributions & Recognition
+
+**Awards & Recognition:**
+- 🏆 **"The Cyber Guardian"** - 30+ awards for global impact in emerging tech safety
+- 🏆 **VB Transform Women in AI Award 2023** - For leadership in AI safety and governance
+- 📰 **Featured in:** The Washington Post, Financial Times, Wall Street Journal, and global outlets
+
+**Active Contributions:**
+- **AI Safety Institute Consortium** - NIST (Contributor, 2023-Present)
+- **Interpol Metaverse Expert Group (iMEG)** - INTERPOL (Subject Matter Expert, 2022-Present)
+- **Immersive Technology Focus Group** - OECD (Expert Advisor, 2021-Present)
+- **Global Coalition of Digital Safety** - WEF (Member, 2020-Present)
+
+**Policy & Standards:**
+- Advised 60+ governments and institutions on AI governance, cybersecurity, and privacy strategy
+- Contributed to modernization of Uniform Commercial Code (UCC) for digital assets and crypto
+- Pioneered internationally-adopted GRC frameworks (GDPR, CCPA, NIST, ISO 27001)
+
+---
+
+## 🛠️ Core Skills
+
+- **Frameworks:** ISO 42001, ISO 27001, ISO 28000, NIST CSF, NIST RMF, SOC 2, GDPR, HIPAA, EU AI Act
+- **GRC:** Control frameworks, audit readiness, evidence workflows, compliance program management
+- **AI Governance:** Agentic AI evaluation, autonomous system accountability, decision transparency
+- **Risk Management:** Risk assessment, vendor management, third-party oversight, threat modeling
+- **Compliance Operations:** Control documentation, evidence collection, audit coordination
+- **Cross-Functional Leadership:** Security, engineering, product, legal, and compliance alignment
+
+---
+
+## 📚 Education
+
+- **M.S. in Computer, Information and Network Security** - DePaul University (2012-2015)
+- **B.S. in Computer Application** - MD University (1998-2001)
+
+**Certifications:**
+- Certified Information Security Manager (CISM) - ISACA
+- PCI-DSS Internal Security Assessor (ISA) - PCI SSC
+- Payment Card Industry Professional (PCIP) - PCI SSC
+
+---
+
+## 🔗 Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/kavya-pearlman/)
+- 📧 kavya@xrsi.org
+- 🌍 [X Reality Safety Intelligence](https://xrsi.org)
+
+---
+
+**Open to collaboration on AI governance, compliance frameworks, and emerging tech safety.**
