@@ -7,22 +7,55 @@
 
 ---
 
-## 🚀 Featured Open Source Contribution
+## 🚀 Featured Open Source Contributions
 
-### **Agentic Trust Framework - Compliance Audit Guide**
+### **Agentic Trust Framework - Complete Governance Solution**
+
+I've contributed two major frameworks to operationalize AI agent governance:
+
+#### **PR #19: Compliance Audit Guide**
 **[View PR #19](https://github.com/massivescale-ai/agentic-trust-framework/pull/19)**
 
-A comprehensive guide operationalizing all 61 Agentic Trust Framework (ATF) controls into audit-ready procedures.
+Operationalizes all 61 ATF controls into audit-ready procedures that organizations can use immediately.
 
 **What it provides:**
 - ✅ **Audit Procedures** - Step-by-step verification for each control
-- ✅ **Evidence Requirements** - What compliance teams must produce during audits
-- ✅ **Maturity Scoring** - Measure organizational compliance posture (0-100%)
+- ✅ **Evidence Requirements** - What compliance teams must produce
+- ✅ **Maturity Scoring** - Measure compliance posture (0-100%)
 - ✅ **Framework Mappings** - ISO 42001, ISO 27001, SOC 2, GDPR, HIPAA, EU AI Act, NIST AI RMF
-- ✅ **Industry Playbooks** - Financial Services, Healthcare, EU-specific guidance
-- ✅ **Compliance Tools** - Excel scoring calculator and assessment templates
+- ✅ **Industry Playbooks** - Financial Services, Healthcare, EU guidance
+- ✅ **Compliance Tools** - Scoring calculator and assessment templates
 
-**Impact:** Bridges the gap between governance frameworks and real-world implementation for organizations, auditors, and regulators.
+---
+
+#### **PR #20: Continuous Compliance Framework**
+**[View PR #20](https://github.com/massivescale-ai/agentic-trust-framework/pull/20)**
+
+Automates compliance monitoring so organizations go from "audit next quarter" to "audit-ready anytime."
+
+**What it enables:**
+- ✅ **Automated Evidence Collection** - Real-time telemetry from operational systems
+- ✅ **Continuous Monitoring** - Real-time compliance scoring (not quarterly audits)
+- ✅ **On-Demand Reporting** - Compliance dashboards and audit packages
+- ✅ **Automated Alerts** - Immediate notification when controls drift
+- ✅ **CMMC 2.0 Support** - Compliance mapping for defense contractors
+- ✅ **80-90% Cost Reduction** - Transforms compliance from manual to automated
+
+---
+
+### **Impact**
+
+Together, these frameworks show the complete picture of AI agent governance:
+- **PR #19:** How to audit controls
+- **PR #20:** How to continuously verify compliance
+
+**Result:** Organizations can move from "compliance is a quarterly exercise" to "compliance is continuous and automated"—essential as agentic AI deployment accelerates across regulated industries.
+
+**Statistics:**
+- 61 controls fully operationalized
+- 7 compliance frameworks mapped
+- 15,000+ words of production-ready guidance
+- Real-world implementation examples
 
 ---
 
